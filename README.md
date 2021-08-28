@@ -13,3 +13,5 @@ Generate a otf/ttf format font file for your own handwriting font that can be im
 8.  Clean the fonts if needed and then click on 'Build Font'. It shows a preview of how the final output will come, you can change it if needed.
 9.  The same windows provides the ttf and otf files, click on it to download.
 10. You can now import the fonts anywhere and use them.
+
+![alt text](https://github.com/ishawakankar/handwrittenFont/blob/main/letters.jpeg?raw=true)
